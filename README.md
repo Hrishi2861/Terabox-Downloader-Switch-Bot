@@ -8,7 +8,7 @@ Terabox API/Base Code [**HERE**](https://t.me/Privates_Bots/7212).
 - `BOT_TOKEN`: The Switch Bot Token that you got from Bot Apps. `Str`
 
 ---
-### For farther assistance visit my support group: [**@JetMirror**](https://telegram.me/JetMirror).
+### For farther assistance visit my support group: [**@JetMirror**](https://t.me/jetmirrorchats).
 
 ---
 ## Deploy on VPS
