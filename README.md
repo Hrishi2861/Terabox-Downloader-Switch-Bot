@@ -12,7 +12,7 @@ Terabox API/Base Code [**HERE**](https://t.me/Privates_Bots/7212).
 
 ---
 ## Deploy on VPS
----
+
 ## Prerequisites
 
 ### 1. Installing requirements
